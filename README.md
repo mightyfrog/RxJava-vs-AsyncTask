@@ -1,4 +1,4 @@
-# RxJava-vs-AsyncTask
+# RxJava vs AsyncTask
 This sample app loads http://www.google.com/ as String into a TextView using three different methods:
  1. AsyncTask: loadDataAsyncTask()
  2. RxJava: loadDataRxJava()
